@@ -1,0 +1,9 @@
+[component]
+name = "SigmaOS-bsd-ghost"
+description = "GhostBSD desktop-ready OpenZFS boot environments"
+version = "0.1.0"
+tier = 4
+
+[capabilities]
+contract_version = "1.0.0"
+principles = ["DRY", "KISS", "SOLID", "Arrange-Act-Assert", "Pristine-Sources", "Minimal-Kernel"]
