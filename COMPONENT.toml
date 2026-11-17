@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-bsd-ghost"
-description = "GhostBSD desktop-ready OpenZFS boot environments"
+description = "SigmaOS BSD Ghost - Privacy-preserving BSD with secure memory zeroization"
 version = "0.1.0"
 tier = 4
 
